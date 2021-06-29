@@ -16,4 +16,10 @@ Below is the first revision of ER.
 But when I made it, I found it “rest steel” and “steel” should be the same. But if it is the same, it should be many-to-many relation. So I added a property between nesting and steel that shows what is the relation between those.
  
 ![image](https://user-images.githubusercontent.com/58405807/123320407-4edc4080-d4f7-11eb-9d22-b9eef5e764c6.png)
+PostgresDB has used for the database and Pgadmin4 used to manage it. 
+![Screenshot from 2021-06-29 12-47-40](https://user-images.githubusercontent.com/58405807/123846664-47dc7600-d8db-11eb-8a7c-d88d2267272d.png)
+backup of the database has made. it is easy to restore it with pgadmin4. 
+/database-backup/steel_inventory.tar
+
+
 
