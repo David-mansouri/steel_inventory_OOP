@@ -20,6 +20,8 @@ PostgresDB has used for the database and Pgadmin4 used to manage it.
 ![Screenshot from 2021-06-29 12-47-40](https://user-images.githubusercontent.com/58405807/123846664-47dc7600-d8db-11eb-8a7c-d88d2267272d.png)
 backup of the database has made. it is easy to restore it with pgadmin4. 
 /database-backup/steel_inventory.tar
+![Screenshot from 2021-07-01 20-02-49](https://user-images.githubusercontent.com/58405807/124210372-e968f080-dab0-11eb-9fdc-46b85ffc2f3a.png)
+
 
 
 
